@@ -1,0 +1,10 @@
+replicate
+transformers 
+diffusers 
+ftfy 
+accelerate
+torch
+scipy
+tqdm
+torchvision
+pillow
